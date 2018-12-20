@@ -16,7 +16,7 @@ CSDownloader
 
 Установка
 ---------
-* Скачать или клонировать репозиторий https://github.com/ansakoy/cs_downloader
+* Скачать или клонировать репозиторий https://github.com/infoculture/cs_downloader/
 * (В случае скачивания разархивировать его)
 * В командной строке перейти в папку cs_downloader
 * Запустить установку python setup.py install
@@ -24,7 +24,7 @@ CSDownloader
 
 Подробная документация CSDownloader
 -----------------------
-https://github.com/ansakoy/cs_downloader/wiki
+https://github.com/infoculture/cs_downloader/wiki
 
 Документация API "Госзатрат":
 -----------------------------
